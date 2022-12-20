@@ -1,6 +1,6 @@
 - 👋 Hi there , I’m Udit Joshi
 <a href="https://www.linkedin.com/in/udit-narayan-joshi/">
-  <img align="left" alt="Udit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Udit's LinkedIN" name="Udit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
